@@ -9,8 +9,6 @@
 [Cha Zhang](https://www.microsoft.com/en-us/research/people/chazhang/),
 [Mohit Bansal](https://www.cs.unc.edu/~mbansal/)
               
-Zineng Tang1,2 Ziyi Yang2* Guoxin Wang3 Yuwei Fang2 Yang Liu2
-Chenguang Zhu2 Michael Zeng2 Cha Zhang3 Mohit Bansal
 Code Comming Soon ...
 
 Open Source Checklist:
