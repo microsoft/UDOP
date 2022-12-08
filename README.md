@@ -18,3 +18,15 @@ Open Source Checklist:
 - [ ] Release Downstream
 - [ ] Vision Decoder / Weights (Due to fake document generation ethical consideration: we don't have plan on this part yet)
 - [ ] Demos
+
+## Introduction 
+
+UDOP unifies vision, text, and layout through vision-text-layout Transformer and unified generative pretraining tasks including
+vision task, text task, layout task, and mixed task. We show the task prompts (left) and task targets (right) for all self-supervised objectives
+(joint text-layout reconstruction, visual text recognition, layout modeling, and masked autoencoding) and two example supervised objectives
+(question answering and layout analysis).
+
+<p align="center">
+  <img align="middle" width="800" src="udop.png"/>
+</p>
+
