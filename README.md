@@ -9,7 +9,7 @@
 [Cha Zhang](https://www.microsoft.com/en-us/research/people/chazhang/),
 [Mohit Bansal](https://www.cs.unc.edu/~mbansal/)
               
-Code Comming Soon ...
+Code Coming Soon ...
 
 Open Source Checklist:
 
