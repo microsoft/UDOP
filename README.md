@@ -9,7 +9,7 @@
 [Cha Zhang](https://www.microsoft.com/en-us/research/people/chazhang/),
 [Mohit Bansal](https://www.cs.unc.edu/~mbansal/)
               
-## Code Release
+## Code Release [Here](https://github.com/zinengtang/i-Code/tree/main/i-Code-Doc)
 
 Code is rehosted at part of [the i-code project](https://github.com/zinengtang/i-Code/tree/main/i-Code-Doc)
 
