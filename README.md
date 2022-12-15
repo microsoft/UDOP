@@ -1,6 +1,6 @@
 # [Unifying Vision, Text, and Layout for Universal Document Processing](https://arxiv.org/pdf/2212.02623)
 [Zineng Tang](https://zinengtang.github.io/),
-[Ziyi Yang](https://www.microsoft.com/en-us/research/people/ziyiyang/),
+[Ziyi Yang](https://ziyi-yang.github.io/),
 [Guoxin Wang](https://www.guoxwang.com/),
 [Yuwei Fang](https://www.microsoft.com/en-us/research/people/yuwfan/),
 [Yang Liu](https://nlp-yang.github.io/),
@@ -9,15 +9,17 @@
 [Cha Zhang](https://www.microsoft.com/en-us/research/people/chazhang/),
 [Mohit Bansal](https://www.cs.unc.edu/~mbansal/)
               
-Code Coming Soon ...
+## Code Release
 
-Open Source Checklist:
+Code is rehosted at part of [the i-code project](https://github.com/zinengtang/i-Code/tree/main/i-Code-Doc)
 
-- [ ] Release Model (Encoder + Text decoder)
-- [ ] Release Pretraining
-- [ ] Release Downstream
-- [ ] Vision Decoder / Weights (Due to fake document generation ethical consideration: we don't have plan on this part yet)
+## Open Source Checklist:
+
+- [x] Release Model (Encoder + Text decoder)
+- [ ] Release Most Scripts
+- [ ] Vision Decoder / Weights (Due to fake document generation ethical consideration, we plan to release this functionality as an Azure API)
 - [ ] Demos
+
 
 ## Introduction 
 
