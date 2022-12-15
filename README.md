@@ -11,7 +11,7 @@
               
 ## Code Release [Here](https://github.com/microsoft/i-Code/tree/main/i-Code-Doc)
 
-Code is rehosted at part of [the i-code project](https://github.com/microsoft/i-Code/tree/main/i-Code-Doc)
+Code is rehosted at part of [the i-code project](https://github.com/microsoft/i-Code)
 
 ## Open Source Checklist:
 
