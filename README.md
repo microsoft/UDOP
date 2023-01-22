@@ -13,14 +13,6 @@
 
 Code is rehosted at part of [the i-code project](https://github.com/microsoft/i-Code)
 
-## Open Source Checklist:
-
-- [x] Release Model (Encoder + Text decoder)
-- [ ] Release Most Scripts
-- [ ] Vision Decoder / Weights (Due to fake document generation ethical consideration, we plan to release this functionality as an Azure API)
-- [ ] Demos
-
-
 ## Introduction 
 
 UDOP unifies vision, text, and layout through vision-text-layout Transformer and unified generative pretraining tasks including
